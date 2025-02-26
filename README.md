@@ -53,8 +53,8 @@ I'm a **💻 Software Engineer** passionate about **🚀 scalable** and **⚡ ef
 - **📱 Mobile-App Developer Intern (Flutter & Backend)** - Worked on cross-platform app development.
 
 ## 🌐 Connect with Me
-[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar/)  
-[![🟠 LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white)]((https://leetcode.com/u/Server_Monks71/))  
+[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-38b2b5224/)  
+[![🟠 LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Server_Monks71/)  
 [![📸 Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_sudhanshu.kr_/)  
 
 ## 🎶 Fun Fact
