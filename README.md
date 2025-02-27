@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Sudhanshu Kumar 🚀
 
 ## 🧑‍💻 About Me
-I'm a **💻 Software Engineer** passionate about **🚀 scalable** and **⚡ efficient applications**. Currently a **🎓 final-year BTech student at IIT Delhi**, with expertise in **Data Structure and Algorithms 🌐 full-stack development, 🏗️ system design, and 🤖 AI/ML**.
+I'm a **💻 Software Engineer** passionate about **🚀 scalable** and **⚡ efficient applications**. Currently a **🎓 final-year BTech student at IIT Delhi**, with expertise in **Data Structure and Algorithms 🌐 full-stack development, 🏗️ system design**.
 
 ## 🛠️ Languages and Technologies:
 
